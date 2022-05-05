@@ -129,11 +129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git_Repositories\\messaging\\Messaging\\Messaging\\RabbitMqSender.csproj",
+      "projectUniqueName": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqSender\\RabbitMqSender.csproj",
       "projectName": "RabbitMqSender",
-      "projectPath": "D:\\Git_Repositories\\messaging\\Messaging\\Messaging\\RabbitMqSender.csproj",
+      "projectPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqSender\\RabbitMqSender.csproj",
       "packagesPath": "C:\\Users\\chait\\.nuget\\packages\\",
-      "outputPath": "D:\\Git_Repositories\\messaging\\Messaging\\Messaging\\obj\\",
+      "outputPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqSender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chait\\AppData\\Roaming\\NuGet\\NuGet.Config",
