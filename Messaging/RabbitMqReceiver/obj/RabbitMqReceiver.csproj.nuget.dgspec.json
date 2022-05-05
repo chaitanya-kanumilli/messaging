@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqReceiver\\RabbitMqReceiver.csproj": {}
+  },
+  "projects": {
+    "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\RabbitMqClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\RabbitMqClient.csproj",
+        "projectName": "RabbitMqClient",
+        "projectPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\RabbitMqClient.csproj",
+        "packagesPath": "C:\\Users\\chait\\.nuget\\packages\\",
+        "outputPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chait\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqReceiver\\RabbitMqReceiver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqReceiver\\RabbitMqReceiver.csproj",
+        "projectName": "RabbitMqReceiver",
+        "projectPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqReceiver\\RabbitMqReceiver.csproj",
+        "packagesPath": "C:\\Users\\chait\\.nuget\\packages\\",
+        "outputPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqReceiver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chait\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\RabbitMqClient.csproj": {
+                "projectPath": "D:\\Git_Repositories\\messaging\\Messaging\\RabbitMqClient\\RabbitMqClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\bin\Debug\netcoreapp3.1\RabbitMqClient.deps.json
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\bin\Debug\netcoreapp3.1\RabbitMqClient.dll
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\bin\Debug\netcoreapp3.1\RabbitMqClient.pdb
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.csproj.AssemblyReference.cache
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.AssemblyInfoInputs.cache
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.AssemblyInfo.cs
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.csproj.CoreCompileInputs.cache
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.dll
+D:\Git_Repositories\messaging\Messaging\RabbitMqClient\obj\Debug\netcoreapp3.1\RabbitMqClient.pdb
