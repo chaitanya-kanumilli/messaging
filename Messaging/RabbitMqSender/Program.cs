@@ -9,6 +9,7 @@ namespace RabbitMqSender
 {
     public class Program
     {
+        //
         static void Main(string[] args)
         {
             IConfigurationBuilder builder = new ConfigurationBuilder();
